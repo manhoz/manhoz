@@ -1,3 +1,6 @@
 body {
-    background-color: blueviolet;
+    background-color: rgba(129, 28, 224, 0.5);
+}
+p {
+    color: indigo;
 }
