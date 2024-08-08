@@ -4,4 +4,7 @@ body {
 p {
     color: indigo;
 }
-.primeiro
+.primeiro {
+    font-style: italic;
+}
+
